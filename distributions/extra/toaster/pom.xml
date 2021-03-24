@@ -34,7 +34,7 @@
     <properties>
         <eclipselink.version>2.5.0</eclipselink.version>
         <geminiweb.version>2.2.0.RELEASE</geminiweb.version>
-        <jackson.version>2.3.0</jackson.version>
+        <jackson.version>2.12.2</jackson.version>
         <jersey.version>1.17</jersey.version>
         <logback.version>1.0.9</logback.version>
         <netty.version>4.0.19.Final</netty.version>
