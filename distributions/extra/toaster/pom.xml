@@ -36,7 +36,7 @@
         <geminiweb.version>2.2.0.RELEASE</geminiweb.version>
         <jackson.version>2.3.0</jackson.version>
         <jersey.version>1.17</jersey.version>
-        <logback.version>1.0.9</logback.version>
+        <logback.version>1.2.0</logback.version>
         <netty.version>4.0.19.Final</netty.version>
         <slf4j.version>1.7.2</slf4j.version>
         <virgo.version>3.6.0.RELEASE</virgo.version>
